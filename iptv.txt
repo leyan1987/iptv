@@ -220,6 +220,7 @@ CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 超级体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8#http://[2409:8087:1a0a:df::4016]/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1713110634&from=4&hms_devid=992&online=1713110634&vqe=3#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
+FIFA+,https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
 港澳,#genre#
 凤凰中文,http://103.95.24.37:880/fhws.m3u8#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://113.64.145.195:8081/hls/37/index.m3u8#http://www.lebaobei.top:6868/udp/239.255.30.50:8231
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8#http://113.64.145.55:8081/hls/36/index.m3u8#http://113.64.145.105:8081/hls/36/index.m3u8#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://113.64.145.195:8081/hls/36/index.m3u8#http://www.lebaobei.top:6868/udp/239.255.30.70:8231
