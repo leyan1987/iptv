@@ -1,8 +1,5 @@
 CNN,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/76564
 BBC,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/427229
-凤凰资讯,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269823
-凤凰北美,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269822
-凤凰香港,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269828
 东森美洲,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269923
 东森卫视,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269926
 TVB翡翠台,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052638
@@ -29,6 +26,10 @@ KBS World,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977690
 BBC Earth,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543291
 Premier Sports,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543256
 BBC Lifestyle,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052421
+Nick Jr,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71467
+Disney JR,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/494704
+Disney XD,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/494705
+PBS Kids,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/495010
 Discovery Life,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9861
 Discovery Family,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/10538
 Discovery Channel East,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9811
@@ -45,7 +46,6 @@ HBO Zone,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9265
 HBO Family,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052504
 HBO HD,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052508
 HBO HITS,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052513
-HITS,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052520
 HITS Now,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052526
 Food Network,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71351
 SKY Sports+,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/973137
