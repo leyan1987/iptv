@@ -1,63 +1,39 @@
 公众号冲浪的豆豆豆,#genre#
 公众号冲浪的豆豆豆,http://
-国际频道,#genre#
-CNN,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/76564
-BBC,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/427229
-东森美洲,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269923
-东森卫视,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269926
-TVB翡翠台,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052638
-TVB星河台,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052641
-TVB娱乐,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052635
-TVBS欢乐台,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052644
-Fox News,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1084575
-Fox Business,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71494
-NBC News Now,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/232800
-Newsnation,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/332166
-ABC News,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/248840
-France 24,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17361
-MTV,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052559
-Blaze TV,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1088233
-Infowars,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1086616
-My Network,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1166647
-Sky News,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052587
-Spectrum News,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/974332
-Insight,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/271344
-Bloomberg+,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/271345
-Sony Movies,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977688
-Comedy Movies,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121096
-KBS World,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977690
-BBC Earth,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543291
-Premier Sports,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543256
-BBC Lifestyle,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052421
-Nick Jr,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71467
-Disney JR,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/494704
-Disney XD,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/494705
-PBS Kids,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/495010
+国际,#genre#
+CNN,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/47213
+BBC,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53757
+ABC,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121139
+Al Jazeera,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/160711
+Fox News,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/1818
+NewsNation,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/161450
+CBSN,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46754
+Infowars,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/78578
+NBC,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17749
+ABC News Sydney,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121004
 Discovery Life,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9861
 Discovery Family,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/10538
 Discovery Channel East,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9811
-Discovery Channel,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052478
-Discovery Asia,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052476
 Discovery Science,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53695
 Nat Geo Wild East,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
 National Geographic,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
-Cinemax HD,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052452
-Gold TV,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1014274
-HBO Comedy,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17773
-HBO Singnature,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9266
-HBO Zone,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9265
-HBO Family,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052504
-HBO HD,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052508
-HBO HITS,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052513
-HITS Now,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052526
-Food Network,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71351
-SKY Sports+,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/973137
-SKY Sports F1,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/76642
-Eurosports,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052488
-BEIN Sports,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052431
-NBA TV,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71986
-ESPN,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/973127
-BBC 1,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17305
-BBC 2,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17318
-BBC 3,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17321
-BBC 4,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17331
+AMC,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/18925
+BET,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13702
+CBS,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/21259
+CNBC,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
+HISTORY,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46724
+HBO East,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46713
+Sky Sports F1,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53704
+Sky Sports Mix,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53706
+Sky Cinema Scifi & Horror,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35248
+SKY Crime Thriller,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35252
+Lifetime Movies,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20863
+Cinemax,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13380
+NBA TV,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/22995
+BBC One,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53649
+BBC Two,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53650
+BBC One Scotland,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53755
+CBBC,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53720
+Animal Planet,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57377
+HGTV,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57273
+More Max,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17776
