@@ -10,30 +10,44 @@ NewsNation,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/161450
 CBSN,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46754
 Infowars,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/78578
 NBC,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17749
+PBS NJ,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/224557
 ABC News Sydney,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121004
-Discovery Life,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9861
-Discovery Family,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/10538
-Discovery Channel East,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9811
 Discovery Science,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53695
 Nat Geo Wild East,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
 National Geographic,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
+Cartoon Network,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53719
+NICKELODEON,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53728
 AMC,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/18925
 BET,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13702
 CBS,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/21259
 CNBC,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
 HISTORY,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46724
-HBO East,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46713
-Sky Sports F1,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53704
-Sky Sports Mix,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53706
 Sky Cinema Scifi & Horror,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35248
 SKY Crime Thriller,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35252
 Lifetime Movies,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20863
 Cinemax,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13380
-NBA TV,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/22995
 BBC One,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53649
 BBC Two,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53650
-BBC One Scotland,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53755
 CBBC,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53720
 Animal Planet,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57377
+Sky Sports News,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35241
+Sky Sports Mix,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53706
+Sky Sports Arena,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35238
+Sky Sports Golf,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35240
+Sky Sports Main Event,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35243
+Sky SciFI,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53663
+Sky Sports Cricket,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/45940
+Sky Sports F1,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
+Sky SP Racing,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/76842
 HGTV,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57273
+TNT,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46688
+MLB Network,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/21360
+UFC,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/146293
+NFL Network,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/159091
 More Max,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17776
+NBA TV,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/22995
+NBC Sports California,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20940
+NBC Sports Chicago,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20941
+NBC Sports Network,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20926
+NBC Sports Philly,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20943
+Fox Sports 1,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/1846
