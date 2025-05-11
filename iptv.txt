@@ -1,6 +1,6 @@
 关注微信公众号冲浪的豆豆豆,#genre#
 公众号冲浪的豆豆豆,http://
-update0427,http://
+update0511,http://
 央视频道,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
@@ -89,14 +89,14 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 California Music Channel,https://cmc-ono.amagi.tv/playlist.m3u8
 Xplore TV,https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
 MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+Kevin Hart's LOL! Network,https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 A&E,https://v5.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
 AMC - Eastern Feed,https://v16.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
 Altitude Sports Denver,https://v2.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
-American Heroes Channel,https://v1.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
 Animal Planet US - East,https://v4.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
 BBC News - North America HD,https://v14.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
 Big Ten Network,https://v14.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
-BRAVO USA - Eastern Feed,https://v4.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
+BRAVO USA ,https://v4.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
 C-SPAN,https://v14.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
 C-SPAN 2,https://v13.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8
 CBSLA (KCBS) Los Angeles,https://v18.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
@@ -109,7 +109,6 @@ Chicago Sports Network,https://v2.thetvapp.to/hls/chicago-sports-network/tracks-
 CINEMAX - Eastern Feed,https://v14.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 COMEDY CENTRAL (US) - Eastern Feed,https://v14.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
 Crime + Investigation USA HD,https://v5.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
-Destination America,https://v1.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8
 DISCOVERY FAMILY CHANNEL,https://v13.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
 DISNEY CHANNEL - Eastern Feed,https://v15.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
 Disney JR USA - East,https://v14.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
@@ -133,36 +132,30 @@ FanDuel SN SoCal,https://v3.thetvapp.to/hls/fanduel-sports-network-socal/tracks-
 Fanduel Sports Network South Carolinas,https://v14.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v1a1/mono.m3u8
 Fanduel Sports Network South Tennessee,https://v13.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v1a1/mono.m3u8
 FanDuel SN West,https://v14.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8
+Fox Business Network,https://v1.thetvapp.to/hls/FoxBusiness/index.m3u8
 FanDuel SN Wisconsin,https://v12.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8
 Fanduel Sports Southeast North Carolina,https://v8.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v1a1/mono.m3u8
 Fanduel Sports Southeast South Carolina,https://v17.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v1a1/mono.m3u8
 Fanduel Sports Southeast Tennessee Nashville,https://v17.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8
-Fanduel Sports Sun,https://v1.thetvapp.to/hls/fanduel-sports-sun/tracks-v1a1/mono.m3u8
 Fanduel Sports Tennessee East,https://v3.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
 FOOD NETWORK USA - Eastern Feed,https://v14.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
-Fox Business,https://v1.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8
 Fox Sports 2,https://v3.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
 GAME SHOW NETWORK East,https://v3.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
 HBO - Eastern Feed,https://v18.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
 HBO 2 - Eastern Feed,https://v16.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
-HBO Comedy HD - East,https://v1.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
 HBO Family - Eastern Feed,https://v13.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
 HBO Signature (HBO 3) - Eastern,https://v15.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
 HBO Zone HD - East,https://v4.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
 HGTV USA - Eastern Feed,https://v14.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
 HLN,https://v3.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
-Hallmark Channel - Eastern Feed,https://v1.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8
-Hallmark Family HD,https://v5.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8
 Hallmark Mystery - HD,https://v14.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
 ION - Eastern Feed,https://v8.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
 IFC Independent Film Channel US,https://v14.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8
-ID (Investigation Discovery) USA - Eastern,https://v1.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8
 LOGO - East,https://v8.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
 Lifetime Movies Network - East,https://v12.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
 Lifetime Network US - Eastern Feed,https://v3.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
 MLB Network,https://v14.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
 MSG Madison Square Gardens,https://v16.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
-MSNBC USA,https://v1.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
 MTV 2 East,https://v14.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
 Marquee Sports Network,https://v8.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
 MeTV Toons (WJLP2) New Jersey,https://v2.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
@@ -188,23 +181,16 @@ NICK JR. - East,https://v4.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
 Nickelodeon USA - East Feed,https://v15.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
 Outdoor Channel US,https://v3.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8
 Oxygen - Eastern Feed,https://v3.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
-Discovery Science,https://v1.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
 Showtime - Eastern Feed,https://v3.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
-Showtime 2 - Eastern,https://v5.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
-Sportsnet West,https://v1.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8
 Starz - Eastern,https://v8.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
 SYFY - Eastern Feed,https://v14.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
 TBS - East,https://v13.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
 TLC USA - Eastern,https://v16.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
-TSN 1,https://v1.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
 TSN 2,https://v4.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
 TSN 3,https://v3.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
 TSN 4,https://v2.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
 TSN 5,https://v14.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
-TV Land Eastern,https://v1.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
 The Cooking Channel,https://v18.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
-USA Network - East Feed,https://v3.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8
 VH1 - Eastern Feed,https://v17.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
 VICE,https://v12.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
-YES Network,https://v18.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8
 WETV (Women's Entertainment) - Eastern,https://v14.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
