@@ -1,5 +1,5 @@
 关注微信公众号冲浪的豆豆豆,#genre#
-update0512,http://
+update0517,http://
 央视频道,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
