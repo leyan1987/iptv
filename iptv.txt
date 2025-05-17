@@ -58,138 +58,82 @@ CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 乌察新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 海外,#genre#
 BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-CNN,https://v15.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
+CNN,https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+ABC7,http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+ABC News Live,https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
+CBS News,http://fl3.moveonjoy.com/CBS_News/index.m3u8
 CGTN,https://english-livebkws.cgtn.com/live/encgtn.m3u8
-CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-ABC News Live,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-GB News,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 Al Jazerra,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+CNBC,http://fl5.moveonjoy.com/CNBC/index.m3u8
+FOX5,http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+ESP News,http://fl3.moveonjoy.com/ESPN_news/index.m3u8
+NewsNation,http://fl3.moveonjoy.com/%E5%9B%BD%E9%99%85_NATION/index.m3u8
+LiveNow from Fox,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+CBS,http://fl3.moveonjoy.com/CBS_%E5%9B%BD%E9%99%85/index.m3u8
+FOX Soul,http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-Comedy Dynamics,https://aegis-cloudfront-1.tubi.video/427cd05d-a47b-4b16-a2fe-5e739da93966/playlist.m3u8
-One American News,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
-Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-Mytime,https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-ION Plus,https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
-LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+WeTV,http://fl1.moveonjoy.com/WE_TV/index.m3u8
+Start TV,http://fl3.moveonjoy.com/Start_Tv/index.m3u8
+UP TV,http://fl3.moveonjoy.com/Up_Tv/index.m3u8
+TBS,http://fl5.moveonjoy.com/NHL_8/index.m3u8
+TCM,http://fl1.moveonjoy.com/TCM/index.m3u8
 Food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-Tastemade,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8?checkedby:alliptvlinks.com
-Rakuten VIKI,https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=60d4edd8b2fdec002c14112f&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=&checkedby:alliptvlinks.com
-Sky Sports F1,http://cord-cutter.net:8080/25464931/30585186/35244?checkedby:alliptvlinks.com
-AMC,http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+TNT,http://fl5.moveonjoy.com/NBA_1/index.m3u8
+Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Cooking Channel,http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 California Music Channel,https://cmc-ono.amagi.tv/playlist.m3u8
 Xplore TV,https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
 MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-Kevin Hart's LOL! Network,https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
-A&E,https://v5.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
-AMC - Eastern Feed,https://v16.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
-Altitude Sports Denver,https://v2.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
-Animal Planet US - East,https://v4.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
-BBC News - North America HD,https://v14.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
-Big Ten Network,https://v14.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
-BRAVO USA ,https://v4.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
-C-SPAN,https://v14.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
-C-SPAN 2,https://v13.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8
-CBSLA (KCBS) Los Angeles,https://v18.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
-CBSNY (WCBS) New York,https://v3.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
-CMT US - Eastern Feed,https://v3.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
-CNBC USA,https://v16.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
-CW (WDCW) District of Columbia,https://v4.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8
-CARTOON NETWORK USA - Eastern Feed,https://v5.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
-Chicago Sports Network,https://v2.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
-CINEMAX - Eastern Feed,https://v14.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
-COMEDY CENTRAL (US) - Eastern Feed,https://v14.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
-Crime + Investigation USA HD,https://v5.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
-DISCOVERY FAMILY CHANNEL,https://v13.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
-DISNEY CHANNEL - Eastern Feed,https://v15.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
-Disney JR USA - East,https://v14.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
-Disney XD USA - Eastern Feed,https://v3.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
-E! Entertainment Television USA - Eastern Feed,https://v13.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8
-ESPN,https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
-FOX (KTTV) Los Angeles,https://v13.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
-FOXNY,https://v3.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
-FX Movie Channel,https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
-FX Networks East Coast,https://v12.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
-FXX USA - Eastern,https://v15.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
-FYI USA - Eastern,https://v15.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
-FanDuel SN Indiana,https://v8.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8
-FanDuel SN Detroit,https://v18.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8
-FanDuel SN Florida,https://v5.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8
-FanDuel SN Great Lakes,https://v5.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v1a1/mono.m3u8
-FanDuel SN North,https://v17.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8
-FanDuel SN Ohio,https://v13.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v1a1/mono.m3u8
-FanDuel SN Oklahoma,https://v5.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
-FanDuel SN SoCal,https://v3.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v1a1/mono.m3u8
-Fanduel Sports Network South Carolinas,https://v14.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v1a1/mono.m3u8
-Fanduel Sports Network South Tennessee,https://v13.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v1a1/mono.m3u8
-FanDuel SN West,https://v14.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8
-Fox Business Network,https://v1.thetvapp.to/hls/FoxBusiness/index.m3u8
-FanDuel SN Wisconsin,https://v12.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8
-Fanduel Sports Southeast North Carolina,https://v8.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v1a1/mono.m3u8
-Fanduel Sports Southeast South Carolina,https://v17.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v1a1/mono.m3u8
-Fanduel Sports Southeast Tennessee Nashville,https://v17.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8
-Fanduel Sports Tennessee East,https://v3.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
-FOOD NETWORK USA - Eastern Feed,https://v14.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
-Fox Sports 2,https://v3.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
-GAME SHOW NETWORK East,https://v3.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
-HBO - Eastern Feed,https://v18.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
-HBO 2 - Eastern Feed,https://v16.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
-HBO Family - Eastern Feed,https://v13.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
-HBO Signature (HBO 3) - Eastern,https://v15.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
-HBO Zone HD - East,https://v4.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
-HGTV USA - Eastern Feed,https://v14.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
-HLN,https://v3.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
-Hallmark Mystery - HD,https://v14.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
-ION - Eastern Feed,https://v8.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
-IFC Independent Film Channel US,https://v14.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8
-LOGO - East,https://v8.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
-Lifetime Movies Network - East,https://v12.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
-Lifetime Network US - Eastern Feed,https://v3.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
-MLB Network,https://v14.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
-MSG Madison Square Gardens,https://v16.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
-MTV 2 East,https://v14.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
-Marquee Sports Network,https://v8.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
-MeTV Toons (WJLP2) New Jersey,https://v2.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
-Midatlantic Sports Network,https://v13.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
-Monumental Sports Network,https://v5.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
-CINEMAX MOREMAX Eastern,https://v18.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
-Motor Trend HD,https://v3.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
-MovieMax (Max 6) - East,https://v16.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
-NBA TV USA,https://v3.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
-NBC (KNBC) Los Angeles,https://v13.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8
-NY,https://v12.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
-NBC Sports Bay Area,https://v13.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
-NBC Sports Boston,https://v12.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
-NBC Sports California,https://v16.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
-NBC Sports Philadelphia,https://v3.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
-NFL RedZone,https://v13.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
-NHL Network USA,https://v17.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
-National Geographic US - Eastern,https://v14.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
-National Geographic Wild,https://v5.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
-New England Sports Network,https://v8.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
-Newsmax TV,https://v8.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8
-NICK JR. - East,https://v4.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
-Nickelodeon USA - East Feed,https://v15.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
-Outdoor Channel US,https://v3.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8
-Oxygen - Eastern Feed,https://v3.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
-Showtime - Eastern Feed,https://v3.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
-Starz - Eastern,https://v8.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
-SYFY - Eastern Feed,https://v14.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
-TBS - East,https://v13.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
-TLC USA - Eastern,https://v16.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
-TSN 2,https://v4.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
-TSN 3,https://v3.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
-TSN 4,https://v2.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
-TSN 5,https://v14.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
-The Cooking Channel,https://v18.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
-VH1 - Eastern Feed,https://v17.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
-VICE,https://v12.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
-WETV (Women's Entertainment) - Eastern,https://v14.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
+AMC,http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+Aspire,http://fl3.moveonjoy.com/Aspire/index.m3u8
+Bounce,http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+Buzzr,http://fl3.moveonjoy.com/Buzzr/index.m3u8
+Cleo TV,http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+CMT,http://fl3.moveonjoy.com/CMT/index.m3u8
+Comedy Central,http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+COMET,http://fl3.moveonjoy.com/COMET/index.m3u8
+Cooking,http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+COZI TV,http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+ION Plus,http://fl3.moveonjoy.com/ION_Plus/index.m3u8
+MSG,http://fl3.moveonjoy.com/MSG/index.m3u8
+TLC,https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
+YES,https://wikinew.newkso.ru/wiki/yesnet/mono.m3u8
+NBA TV,http://fl5.moveonjoy.com/NBA_TV/index.m3u8
+TNT Sports,https://azonew.newkso.ru/azo/eplayerdigitvbt1/mono.m3u8
+Sky Sports Mix,https://x4new.newkso.ru/x4/skymix/mono.m3u8
+Discovery Channel,http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+Discovery Science,http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+Lifetime,https://wikinew.newkso.ru/wiki/ustvlifetime/mono.m3u8
+Sony Movie,http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Hallmark,https://wikinew.newkso.ru/wiki/ustvhallmarkmoviesmisteries/mono.m3u8
+Sundance TV,http://fl3.moveonjoy.com/SUNDANCE/index.m3u8
+Paramount Network,http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+MTV Live,https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+VH1,http://fl3.moveonjoy.com/VH1/index.m3u8
+GoUSA TV,https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
+Journy,https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
+Showtime,http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+Bravo,http://fl3.moveonjoy.com/BRAVO/index.m3u8
+BET,http://fl3.moveonjoy.com/BET_EAST/index.m3u8
+TV One,http://fl3.moveonjoy.com/TV_ONE/index.m3u8
+Up TV,http://fl3.moveonjoy.com/Up_Tv/index.m3u8
+CMTV,https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
+Tennis Channel,http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+National Geographic,http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+National Geographic Wild,http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+BBC America,http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+Disney Junior,http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+Nick Jr.,http://fl3.moveonjoy.com/NICK_JR/index.m3u8
+Disney Channel,http://fl5.moveonjoy.com/DISNEY/index.m3u8
+OuterMax,http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
+MGM+,http://fl3.moveonjoy.com/EPIX/index.m3u8
+FXM,http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+Outdoor Channel,http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
