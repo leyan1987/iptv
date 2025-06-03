@@ -63,27 +63,26 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 ABC7,http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 ABC News Live,https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
 CBS News,http://fl3.moveonjoy.com/CBS_News/index.m3u8
-CGTN,https://english-livebkws.cgtn.com/live/encgtn.m3u8
 Al Jazerra,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CNBC,http://fl5.moveonjoy.com/CNBC/index.m3u8
 FOX5,http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-ESP News,http://fl3.moveonjoy.com/ESPN_news/index.m3u8
-NewsNation,http://fl3.moveonjoy.com/%E5%9B%BD%E9%99%85_NATION/index.m3u8
+ESPN News,http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 LiveNow from Fox,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
-CBS,http://fl3.moveonjoy.com/CBS_%E5%9B%BD%E9%99%85/index.m3u8
+NHK World,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+Newsmax 2,https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 FOX Soul,http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 WeTV,http://fl1.moveonjoy.com/WE_TV/index.m3u8
 Start TV,http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 UP TV,http://fl3.moveonjoy.com/Up_Tv/index.m3u8
 TBS,http://fl5.moveonjoy.com/NHL_8/index.m3u8
 TCM,http://fl1.moveonjoy.com/TCM/index.m3u8
-Food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 TNT,http://fl5.moveonjoy.com/NBA_1/index.m3u8
+FYI,http://fl3.moveonjoy.com/FYI/index.m3u8
 Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Cooking Channel,http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -98,9 +97,10 @@ Cleo TV,http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 CMT,http://fl3.moveonjoy.com/CMT/index.m3u8
 Comedy Central,http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 COMET,http://fl3.moveonjoy.com/COMET/index.m3u8
-Cooking,http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+Pac-12 Insider,https://pac12-samsungus.amagi.tv/playlist.m3u8
 COZI TV,http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-ION Plus,http://fl3.moveonjoy.com/ION_Plus/index.m3u8
+ION Plus,https://fl3.moveonjoy.com/ION_Plus/index.m3u8
+ION TV  ,http://fl3.moveonjoy.com/ION_TV/index.m3u8
 MSG,http://fl3.moveonjoy.com/MSG/index.m3u8
 TLC,https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
 YES,https://wikinew.newkso.ru/wiki/yesnet/mono.m3u8
@@ -112,10 +112,10 @@ Discovery Science,http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 Lifetime,https://wikinew.newkso.ru/wiki/ustvlifetime/mono.m3u8
 Sony Movie,http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-Hallmark,https://wikinew.newkso.ru/wiki/ustvhallmarkmoviesmisteries/mono.m3u8
 Sundance TV,http://fl3.moveonjoy.com/SUNDANCE/index.m3u8
 Paramount Network,http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 MTV Live,https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+MTV East,http://fl3.moveonjoy.com/MTV/index.m3u8
 VH1,http://fl3.moveonjoy.com/VH1/index.m3u8
 GoUSA TV,https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
 Journy,https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
@@ -137,3 +137,23 @@ OuterMax,http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 MGM+,http://fl3.moveonjoy.com/EPIX/index.m3u8
 FXM,http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 Outdoor Channel,http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+Starz,http://fl3.moveonjoy.com/STARZ/index.m3u8
+FXX,http://fl3.moveonjoy.com/FXX/index.m3u8
+SYFY,http://fl3.moveonjoy.com/SYFY/index.m3u8
+CBS Sports  ,http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+Chef Champion ,https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
+Smithsonian  ,http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+Trace Urban,https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist1080p.m3u8
+Disney XD ,http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+Much ,http://fl1.moveonjoy.com/MUCH/index.m3u8
+Bridezillas,https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
+Oxygen East,http://fl3.moveonjoy.com/OXYGEN/index.m3u8
+ACCN  ,http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+MLB Network,http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+Sportsman Channel,http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+ESPN U ,http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+SportsNet  ,http://fl3.moveonjoy.com/SNY/index.m3u8
+Tastemade,https://tastemade-xumo.amagi.tv/playlist.m3u8
+Pop Up,https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-frequency/playlist.m3u8
+World Poker Tour,https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+SportsGrid,https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
