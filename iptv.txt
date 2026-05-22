@@ -1,159 +1,63 @@
-关注微信公众号冲浪的豆豆豆,#genre#
-update0517,http://
-央视频道,#genre#
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-CGTN新闻,https://english-livebkws.cgtn.com/live/encgtn.m3u8
-CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-卫视,#genre#
-北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
-北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-体育休闲,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
-湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
-东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
-内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
-呼市新综,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
-鄂多新闻,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
-包头新综,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
-巴淖新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-赤峰新综,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-乌察新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-海外,#genre#
-BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-CNN,https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-ABC7,http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-ABC News Live,https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
-CBS News,http://fl3.moveonjoy.com/CBS_News/index.m3u8
-Al Jazerra,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-CNBC,http://fl5.moveonjoy.com/CNBC/index.m3u8
-FOX5,http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-ESPN News,http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-LiveNow from Fox,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
-NHK World,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-Newsmax 2,https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
-Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-FOX Soul,http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-WeTV,http://fl1.moveonjoy.com/WE_TV/index.m3u8
-Start TV,http://fl3.moveonjoy.com/Start_Tv/index.m3u8
-UP TV,http://fl3.moveonjoy.com/Up_Tv/index.m3u8
-TBS,http://fl5.moveonjoy.com/NHL_8/index.m3u8
-TCM,http://fl1.moveonjoy.com/TCM/index.m3u8
-TNT,http://fl5.moveonjoy.com/NBA_1/index.m3u8
-FYI,http://fl3.moveonjoy.com/FYI/index.m3u8
-Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-Cooking Channel,http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-California Music Channel,https://cmc-ono.amagi.tv/playlist.m3u8
-Xplore TV,https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
-MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-AMC,http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-Aspire,http://fl3.moveonjoy.com/Aspire/index.m3u8
-Bounce,http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-Buzzr,http://fl3.moveonjoy.com/Buzzr/index.m3u8
-Cleo TV,http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-CMT,http://fl3.moveonjoy.com/CMT/index.m3u8
-Comedy Central,http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-COMET,http://fl3.moveonjoy.com/COMET/index.m3u8
-Pac-12 Insider,https://pac12-samsungus.amagi.tv/playlist.m3u8
-COZI TV,http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-ION Plus,https://fl3.moveonjoy.com/ION_Plus/index.m3u8
-ION TV  ,http://fl3.moveonjoy.com/ION_TV/index.m3u8
-MSG,http://fl3.moveonjoy.com/MSG/index.m3u8
-TLC,https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
-YES,https://wikinew.newkso.ru/wiki/yesnet/mono.m3u8
-NBA TV,http://fl5.moveonjoy.com/NBA_TV/index.m3u8
-TNT Sports,https://azonew.newkso.ru/azo/eplayerdigitvbt1/mono.m3u8
-Sky Sports Mix,https://x4new.newkso.ru/x4/skymix/mono.m3u8
-Discovery Channel,http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-Discovery Science,http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-Lifetime,https://wikinew.newkso.ru/wiki/ustvlifetime/mono.m3u8
-Sony Movie,http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-Sundance TV,http://fl3.moveonjoy.com/SUNDANCE/index.m3u8
-Paramount Network,http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-MTV Live,https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
-MTV East,http://fl3.moveonjoy.com/MTV/index.m3u8
-VH1,http://fl3.moveonjoy.com/VH1/index.m3u8
-GoUSA TV,https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
-Journy,https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
-Showtime,http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-Bravo,http://fl3.moveonjoy.com/BRAVO/index.m3u8
-BET,http://fl3.moveonjoy.com/BET_EAST/index.m3u8
-TV One,http://fl3.moveonjoy.com/TV_ONE/index.m3u8
-Up TV,http://fl3.moveonjoy.com/Up_Tv/index.m3u8
-CMTV,https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
-Tennis Channel,http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-National Geographic,http://fl3.moveonjoy.com/National_Geographic/index.m3u8
-National Geographic Wild,http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-BBC America,http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
-Disney Junior,http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-Nick Jr.,http://fl3.moveonjoy.com/NICK_JR/index.m3u8
-Disney Channel,http://fl5.moveonjoy.com/DISNEY/index.m3u8
-OuterMax,http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
-MGM+,http://fl3.moveonjoy.com/EPIX/index.m3u8
-FXM,http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-Outdoor Channel,http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-Starz,http://fl3.moveonjoy.com/STARZ/index.m3u8
-FXX,http://fl3.moveonjoy.com/FXX/index.m3u8
-SYFY,http://fl3.moveonjoy.com/SYFY/index.m3u8
-CBS Sports  ,http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-Chef Champion ,https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
-Smithsonian  ,http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-Trace Urban,https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist1080p.m3u8
-Disney XD ,http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-Much ,http://fl1.moveonjoy.com/MUCH/index.m3u8
-Bridezillas,https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
-Oxygen East,http://fl3.moveonjoy.com/OXYGEN/index.m3u8
-ACCN  ,http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
-MLB Network,http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
-Sportsman Channel,http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-ESPN U ,http://fl3.moveonjoy.com/ESPN_U/index.m3u8
-SportsNet  ,http://fl3.moveonjoy.com/SNY/index.m3u8
-Tastemade,https://tastemade-xumo.amagi.tv/playlist.m3u8
-Pop Up,https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-frequency/playlist.m3u8
-World Poker Tour,https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-SportsGrid,https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+关注微信公众号潜水的豆豆豆,#genre#
+CCTV-1综合,http://207.56.13.146:81/cdnlive/cctv1.m3u8
+CCTV-2财经,http://207.56.13.146:81/cdnlive/cctv2.m3u8
+CCTV-3综艺,http://207.56.13.146:81/cdnlive/cctv3.m3u8
+CCTV-4中文国际,http://207.56.13.146:81/cdnlive/cctv4.m3u8
+CCTV-5体育,http://207.56.13.146:81/cdnlive/cctv5.m3u8
+CCTV-6电影,http://207.56.13.146:81/cdnlive/cctv6.m3u8
+CCTV-7国防军事,http://207.56.13.146:81/cdnlive/cctv7.m3u8
+CCTV-8电视剧,http://207.56.13.146:81/cdnlive/cctv8.m3u8
+CCTV-9纪录,http://207.56.13.146:81/cdnlive/cctv9.m3u8
+CCTV-10科教,http://207.56.13.146:81/cdnlive/cctv10.m3u8
+CCTV-11戏曲,http://207.56.13.146:81/cdnlive/cctv11.m3u8
+CCTV-12社会与法,http://207.56.13.146:81/cdnlive/cctv12.m3u8
+CCTV-13新闻,http://207.56.13.146:81/cdnlive/cctv13.m3u8
+CCTV-14少儿,http://207.56.13.146:81/cdnlive/cctv14.m3u8
+CCTV-15音乐,http://207.56.13.146:81/cdnlive/cctv15.m3u8
+CCTV-16奥林匹克,http://207.56.13.146:81/cdnlive/cctv16.m3u8
+CCTV-17农业农村,http://207.56.13.146:81/cdnlive/cctv17.m3u8
+CCTV-5+HD,http://207.56.13.146:81/cdnlive/cctv5p.m3u8
+CCTV-兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
+CCTV-女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
+CCTV-世界地理,http://207.56.13.146:81/cdnlive/sjdl.m3u8
+CCTV-卫生健康,http://207.56.13.146:81/cdnlive/wsjk.m3u8
+CCTV-央视文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
+CCTV-第一剧场,http://207.56.13.146:81/cdnlive/dyjc.m3u8
+CCTV-怀旧剧场,http://207.56.13.146:81/cdnlive/hjjc.m3u8
+CCTV-风云剧场,http://207.56.13.146:81/cdnlive/fyjc.m3u8
+CCTV-风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
+CCTV-风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
+CCTV-央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
+CCTV-高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
+安徽卫视,http://207.56.13.146:81/cdnlive/ahws.m3u8
+北京卫视,http://207.56.13.146:81/cdnlive/bjws.m3u8
+东方卫视,http://207.56.13.146:81/cdnlive/dfws.m3u8
+东南卫视,http://207.56.13.146:81/cdnlive/dnws.m3u8
+广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
+湖南卫视,http://207.56.13.146:81/cdnlive/hnws.m3u8
+江苏卫视,http://207.56.13.146:81/cdnlive/jsws.m3u8
+江西卫视,http://207.56.13.146:81/cdnlive/jxws.m3u8
+辽宁卫视,http://207.56.13.146:81/cdnlive/lnws.m3u8
+山东卫视,http://207.56.13.146:81/cdnlive/sdws.m3u8
+深圳卫视,http://207.56.13.146:81/cdnlive/szws.m3u8
+天津卫视,http://207.56.13.146:81/cdnlive/tjws.m3u8
+浙江卫视,http://207.56.13.146:81/cdnlive/zjws.m3u8
+西藏卫视,http://207.56.13.146:81/cdnlive/xzws.m3u8
+新疆卫视,http://207.56.13.146:81/cdnlive/xjws.m3u8
+内蒙古卫视,http://207.56.13.146:81/cdnlive/nmgws.m3u8
+甘肃卫视,http://207.56.13.146:81/cdnlive/gsws.m3u8
+河北卫视,http://207.56.13.146:81/cdnlive/hews.m3u8
+四川卫视,http://207.56.13.146:81/cdnlive/scws.m3u8
+陕西卫视,http://207.56.13.146:81/cdnlive/snws.m3u8
+云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8
+广西卫视,http://207.56.13.146:81/cdnlive/gxws.m3u8
+重庆卫视,http://207.56.13.146:81/cdnlive/cqws.m3u8
+贵州卫视,http://207.56.13.146:81/cdnlive/gzws.m3u8
+湖北卫视,http://207.56.13.146:81/cdnlive/hbws.m3u8
+河南卫视,http://207.56.13.146:81/cdnlive/haws.m3u8
+吉林卫视,http://207.56.13.146:81/cdnlive/jlws.m3u8
+海南卫视,http://207.56.13.146:81/cdnlive/lyws.m3u8
+黑龙江卫视,http://207.56.13.146:81/cdnlive/hljws.m3u8
+山西卫视,http://207.56.13.146:81/cdnlive/sxws.m3u8
+青海卫视,http://207.56.13.146:81/cdnlive/qhws.m3u8
+宁夏卫视,http://207.56.13.146:81/cdnlive/nxws.m3u8
